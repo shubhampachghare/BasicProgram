@@ -19,5 +19,7 @@ public class Program
         quotientAndReminder.quotientAndReminder();
         SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
         swapTwoNumber.swapTwoNumber();
+        EvenOddNumber evenOddNumber = new EvenOddNumber();
+        evenOddNumber.evenOddNumber();
     }
 }
