@@ -11,5 +11,7 @@ public class Program
         leapYear.leapYear();
         PowerOfTwo powerOfTwo = new PowerOfTwo();
         powerOfTwo.powerOfTwo();
+        HarmonicNumber harmonicNumber = new HarmonicNumber();
+        harmonicNumber.harmonicNumber();
     }
 }
