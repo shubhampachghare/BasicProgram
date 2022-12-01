@@ -21,5 +21,7 @@ public class Program
         swapTwoNumber.swapTwoNumber();
         EvenOddNumber evenOddNumber = new EvenOddNumber();
         evenOddNumber.evenOddNumber();
+        VowelOrConstatnt vowelOrConstatnt = new VowelOrConstatnt();
+        vowelOrConstatnt.vowelOrConstant();
     }
 }
