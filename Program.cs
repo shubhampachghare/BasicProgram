@@ -9,5 +9,7 @@ public class Program
         flipCoin.flipCoin();
         LeapYear leapYear = new LeapYear();
         leapYear.leapYear();
+        PowerOfTwo powerOfTwo = new PowerOfTwo();
+        powerOfTwo.powerOfTwo();
     }
 }
