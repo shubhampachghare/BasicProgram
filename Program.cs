@@ -23,5 +23,7 @@ public class Program
         evenOddNumber.evenOddNumber();
         VowelOrConstatnt vowelOrConstatnt = new VowelOrConstatnt();
         vowelOrConstatnt.vowelOrConstant();
+        LargestThreeNumber largestThreeNumber = new LargestThreeNumber();
+        largestThreeNumber.largestThreeNumber();
     }
 }
