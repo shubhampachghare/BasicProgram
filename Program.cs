@@ -17,5 +17,7 @@ public class Program
         primeFactorization.primeFactorization();
         QuotientAndReminder quotientAndReminder = new QuotientAndReminder();
         quotientAndReminder.quotientAndReminder();
+        SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+        swapTwoNumber.swapTwoNumber();
     }
 }
