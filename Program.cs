@@ -7,5 +7,7 @@ public class Program
     {
         FlipCoin flipCoin = new FlipCoin();
         flipCoin.flipCoin();
+        LeapYear leapYear = new LeapYear();
+        leapYear.leapYear();
     }
 }
