@@ -1,0 +1,15 @@
+C:\RFP-231\BasicProgram\bin\Debug\net6.0\BasicProgram.exe
+C:\RFP-231\BasicProgram\bin\Debug\net6.0\BasicProgram.deps.json
+C:\RFP-231\BasicProgram\bin\Debug\net6.0\BasicProgram.runtimeconfig.json
+C:\RFP-231\BasicProgram\bin\Debug\net6.0\BasicProgram.dll
+C:\RFP-231\BasicProgram\bin\Debug\net6.0\BasicProgram.pdb
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.AssemblyReference.cache
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfoInputs.cache
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfo.cs
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.dll
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\refint\BasicProgram.dll
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.pdb
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\BasicProgram.genruntimeconfig.cache
+C:\RFP-231\BasicProgram\obj\Debug\net6.0\ref\BasicProgram.dll
