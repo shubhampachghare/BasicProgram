@@ -13,5 +13,7 @@ public class Program
         powerOfTwo.powerOfTwo();
         HarmonicNumber harmonicNumber = new HarmonicNumber();
         harmonicNumber.harmonicNumber();
+        PrimeFactorization primeFactorization = new PrimeFactorization();
+        primeFactorization.primeFactorization();
     }
 }
