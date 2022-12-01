@@ -15,5 +15,7 @@ public class Program
         harmonicNumber.harmonicNumber();
         PrimeFactorization primeFactorization = new PrimeFactorization();
         primeFactorization.primeFactorization();
+        QuotientAndReminder quotientAndReminder = new QuotientAndReminder();
+        quotientAndReminder.quotientAndReminder();
     }
 }
