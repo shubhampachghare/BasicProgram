@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RFP-231\\BasicProgram\\BasicProgram.csproj",
+      "projectUniqueName": "C:\\BasicProgramNew\\BasicProgram\\BasicProgram.csproj",
       "projectName": "BasicProgram",
-      "projectPath": "C:\\RFP-231\\BasicProgram\\BasicProgram.csproj",
+      "projectPath": "C:\\BasicProgramNew\\BasicProgram\\BasicProgram.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\RFP-231\\BasicProgram\\obj\\",
+      "outputPath": "C:\\BasicProgramNew\\BasicProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

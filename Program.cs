@@ -1,8 +1,11 @@
 ﻿
+using BasicProgram;
+
 public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome To Basic Program");
+        FlipCoin flipCoin = new FlipCoin();
+        flipCoin.flipCoin();
     }
 }
